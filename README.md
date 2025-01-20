@@ -29,13 +29,13 @@ Ce projet utilise un modèle d'apprentissage profond basé sur YOLOv8 pour déte
 ## Installation
 ### Prérequis
 - Python 3.8 ou plus
-- Une caméra connectée à votre machine
+- Une caméra connectée à votre machine ou directement implémenté dans votre machine
 
 ### Étapes d'installation
 1. Clonez ce dépôt :
    ```bash
-   git clone <URL_DU_DÉPÔT>
-   cd <NOM_DU_DÉPÔT>
+   git clone https://github.com/sainth-nathan-ahoussi/Bridge_IA.git
+   cd Bridge_IA
    ```
 2. Installez les dépendances nécessaires :
    ```bash
