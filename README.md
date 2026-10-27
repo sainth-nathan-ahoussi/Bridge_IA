@@ -98,8 +98,3 @@ Ce projet est sous licence [CC BY 4.0](LICENSE).
 
 ## Remerciements
 Merci aux ressources de [Roboflow](https://universe.roboflow.com/bridge-fr7ig/yolo_bridge) pour les ensembles de données utilisés dans ce projet.
-
-### Points principaux :
-1. Ce fichier est organisé pour fournir des informations complètes à l'utilisateur ou au contributeur.
-2. Il décrit les étapes nécessaires pour utiliser l'outil, configure les seuils, et cite les dépendances.
-3. Si vous avez d'autres éléments à inclure, comme des captures d'écran ou des détails spécifiques sur le modèle, faites-le-moi savoir !
