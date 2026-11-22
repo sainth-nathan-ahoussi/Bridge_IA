@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-Data%20Labeling-6706CE?logo=roboflow&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Model%20Training-F9AB00?logo=googlecolab&logoColor=black)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## Introduction
 Ce projet utilise un modèle d'apprentissage profond basé sur YOLOv8 pour détecter et reconnaître les cartes de bridge en temps réel à partir d'un flux vidéo. L'application est conçue pour analyser des séquences vidéo en direct, identifier les cartes présentes et enregistrer les résultats dans un fichier texte.
