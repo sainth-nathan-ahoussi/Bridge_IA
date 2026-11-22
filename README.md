@@ -1,5 +1,13 @@
 # Outil de Détection et Reconnaissance de Cartes de Bridge
 
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?logo=ultralytics&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-AI-5C3EE8)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-Data%20Labeling-6706CE?logo=roboflow&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Model%20Training-F9AB00?logo=googlecolab&logoColor=black)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 ## Introduction
 Ce projet utilise un modèle d'apprentissage profond basé sur YOLOv8 pour détecter et reconnaître les cartes de bridge en temps réel à partir d'un flux vidéo. L'application est conçue pour analyser des séquences vidéo en direct, identifier les cartes présentes et enregistrer les résultats dans un fichier texte.
 
